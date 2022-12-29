@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Project8
+//  SwiftyWords
 //
 //  Created by Dara Adekore on 2022-12-27.
 //
